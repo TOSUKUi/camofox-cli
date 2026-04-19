@@ -1,6 +1,12 @@
 ---
 name: camofox-cli
-description: Use this skill when you need to browse or automate the web through a running camofox-browser server with the local camofox CLI. It is for terminal-first browser workflows against an existing container or remote server: opening tabs, navigating, snapshots with element refs, clicking, typing, scrolling, screenshots, downloads, images, cookies, storage state, YouTube transcripts, and OpenClaw-compatible actions.
+description: >-
+  Use this skill when you need to browse or automate the web through a running
+  camofox-browser server with the local camofox CLI. It is for terminal-first
+  browser workflows against an existing container or remote server: opening
+  tabs, navigating, snapshots with element refs, clicking, typing, scrolling,
+  screenshots, downloads, images, cookies, storage state, YouTube transcripts,
+  and OpenClaw-compatible actions.
 ---
 
 # Camofox CLI
