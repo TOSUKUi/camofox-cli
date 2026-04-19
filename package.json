@@ -4,7 +4,6 @@
   "description": "Standalone CLI client for connecting to a running camofox-browser server",
   "type": "module",
   "bin": {
-    "camofox": "./bin/camofox.js",
     "camofox-cli": "./bin/camofox.js"
   },
   "files": [
