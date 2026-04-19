@@ -1,0 +1,28 @@
+{
+  "name": "@tosukui/camofox-cli",
+  "version": "0.1.0",
+  "description": "Standalone CLI client for connecting to a running camofox-browser server",
+  "type": "module",
+  "bin": {
+    "camofox": "./bin/camofox.js",
+    "camofox-cli": "./bin/camofox.js"
+  },
+  "files": [
+    "bin/",
+    "skills/"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "check": "node --check bin/camofox.js"
+  },
+  "keywords": [
+    "camofox",
+    "cli",
+    "browser",
+    "automation",
+    "openclaw"
+  ],
+  "license": "MIT"
+}
